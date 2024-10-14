@@ -15,7 +15,7 @@ https://github.com/GeeksCAT/hacktoberfest-2021/issues
 
 #### https://hacktoberfestes.dev/
 
-[https://github.com/zerasul/blask](https://github.com/zerasul/blask/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+https://github.com/zerasul/blask/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest
 
 https://github.com/python/python-docs-es/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
 
