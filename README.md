@@ -4,6 +4,7 @@ Repo per la Festa Open Source de GeeksCAT
 En breu anirem pujant els recursos de les xerrades i tallers de la FestaOS 2024
 
 ## Xerrades
+- [How the Rust compiler will assist you in catching bugs](slides/how-the-rust-compiler-will-assist-you-in-catching-bugs)
 
 ## Tallers
 
