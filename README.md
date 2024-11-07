@@ -5,6 +5,7 @@ En breu anirem pujant els recursos de les xerrades i tallers de la FestaOS 2024
 
 ## Xerrades
 - [How the Rust compiler will assist you in catching bugs](slides/how-the-rust-compiler-will-assist-you-in-catching-bugs)
+- [Glassnode's Data Platform Journey](slides/glassnode-data-platform-journey/Glassnode_Data_Platform_Journey.pdf)
 
 ## Tallers
 
